@@ -1,9 +1,9 @@
-.body{
-  background-image: "img/landing.jpg"
-}
 h1{
   text-align: center;
 }
 h2{
   text-align: center;
+}
+p{
+  background-image: "img/landing.jpg" 
 }
