@@ -1,12 +1,3 @@
-#homeinfo{
-  display: none;
-}
-#menuinfo{
-  display: none;
-}
-#aboutinfo{
-  display: none;
-}
-#contactsinfo{
-  display: none;
+.body{
+  background-image: "img/landing.jpg"
 }
