@@ -1,8 +1,17 @@
-.home{
+.container{
+  width: auto;
+  object-fit: cover;
   text-align: center;
+  font-style: italic;
 }
 .jumbotron{
-  background-image: "img/landing.jpg";
+  background-image: url("../img/landing.jpg");
+  margin-bottom: auto;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: auto;
+  margin-left: 0px;
+  margin-right: 0px;
 }
 #drink1{
   float: right;
@@ -11,4 +20,36 @@
 .navbar{
   text-align: center;
   font-size: 36px;
+}
+.orange{
+  background-color: #F15A29;
+  text-align: center;
+}
+.happy-hour{
+  font-size: 48px;
+}
+.party-time{
+  background-color: #F15A29;
+  font-size: 48px;
+}
+.breakfast{
+  text-align: center;
+}
+.lunch{
+  background-image: url("../img/lunch.jpg");
+}
+.dinner{
+  background-image: url("../img/dinner2.jpg");
+}
+body{
+  background-size: cover;
+}
+.well{
+  background-image: url("../img/foodsBg.jpg");
+}
+h1{
+  font-style: normal;
+}
+h3{
+  font-style: normal;
 }
