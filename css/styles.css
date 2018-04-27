@@ -2,7 +2,7 @@
   text-align: center;
 }
 .jumbotron{
-  background-image: url("..img/landing.jpg");
+  background-image: "img/landing.jpg";
 }
 #drink1{
   float: right;
