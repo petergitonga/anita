@@ -1,11 +1,9 @@
-body{
+.home{
   text-align: center;
-  width: 100px;
 }
-.header{
-  margin-top: 5%;
-  margin-left: 35%;
+.jumbotron{
+  background-image: url("..img/landing.jpg");
 }
-.logo{
-  background-image: url(/home/peter/Documents/anita/img/landing.jpg);
+#drink1{
+  float: right;
 }
