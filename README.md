@@ -1,5 +1,5 @@
-# {my portfolio}
-#### {Peter's brief history}
+# Anita's landing page
+#### N/A
 ##No contributors
 ## Description
 This is a landing page for Anita's kitchen which includes menus and
