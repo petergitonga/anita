@@ -33,13 +33,12 @@
   font-size: 48px;
 }
 .breakfast{
-  text-align: center;
+
 }
 .lunch{
-  background-image: url("../img/lunch.jpg");
+
 }
 .dinner{
-  background-image: url("../img/dinner2.jpg");
 }
 body{
   background-size: cover;
@@ -48,10 +47,13 @@ body{
   background-image: url("../img/foodsBg.jpg");
 }
 h1{
-  font-style: normal;
+  font-style: italic;
+  text-decoration: none;
+  color: white;
+  display: block;
 }
 h3{
-  font-style: normal;
+  font-style: italic;
 }
 .subscribe{
   background-image: url("../img/subscribe.jpg");
@@ -69,6 +71,16 @@ h3{
 button{
   background-color: #F15A29;
 }
-strong{
-  background-color: #F15A29;
+h2{
+  font-size: 36px;
+  position: absolute;
+  top: 200px;
+  left: 0;
+  width: 100%;
+  padding-top: -10px;
+}
+.test-box{
+  border: 2px;
+  padding: 6px;
+  margin: 20px;
 }
